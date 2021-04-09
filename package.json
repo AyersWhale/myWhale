@@ -1,0 +1,26 @@
+{
+  "name": "react_webpack",
+  "version": "1.0.0",
+  "description": "react+webpack构建项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyersWhale/myWhale.git"
+  },
+  "keywords": [
+    "kc123456"
+  ],
+  "author": "yaxin.guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyersWhale/myWhale/issues"
+  },
+  "homepage": "https://github.com/AyersWhale/myWhale#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
